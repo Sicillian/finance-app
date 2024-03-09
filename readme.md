@@ -7,6 +7,6 @@
 4. cd/server > uvicorn main:app --reload (Turn on server)
 
 ##Client
-1. cd client/finance-app
+1. cd client
 2. npm install (One time only when clone the repo)(One time only when clone the repo)
 3. npm start
